@@ -40,8 +40,8 @@
             <SplitView.Pane>
                 <StackPanel Background="LightGray">
                     <Button Content="Home" Background="Transparent" Margin="0,45,0,0" Click="GoToHome"/>
+                    <Button Content="Orders" Background="Transparent" Click="GoToOrder"/>
                     <Button Content="Inspirations" Background="Transparent" Click="GoToInspirations"/>
-                    <Button Content="Design Your Wardrobe" Background="Transparent" Click="GoToDesignYourWardrobe"/>
                     <Button Content="Help &amp; Support" Background="Transparent" Click="GoToHelpSupport"/>
                 </StackPanel>
             </SplitView.Pane>
